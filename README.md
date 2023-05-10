@@ -1,53 +1,19 @@
-<div align="center">
-  <h1>📕 Codecademy Docs</h1>
-  <strong>Documentation for popular programming languages and frameworks.</strong><br>
-  <strong>Built by the community. Maintained by Codecademy.</strong>
-</div>
-<br>
+<h1 align="center">Hi 👋, I'm Hayder Labidi</h1>
+<h3 align="center">A passionate frontend developer from Tunisia</h3>
 
-## What is Docs?
+- 🌱 I’m currently learning **Flutter and Ux / Ui design**
 
-[Codecademy Docs](https://www.codecademy.com/resources/docs) is a free, easily accessible reference for coding terms and concepts, available to developers all over the world. If you forget what JavaScript hoisting is, we want you to be able to look up "JS hoisting" on any search engine, click a Codecademy Doc entry, and have an answer in seconds.
+- 💬 Ask me about **JS / Css / HTML / Python / C / C++**
 
-## What stage of development are we in right now?
+- 📫 How to reach me **hayderlabidi2001@gmail.com**
 
-Docs is live with over 1000 high-quality entries. Now that the MVP is out, our goal is to transition some ownership of Docs content to the Codecademy community, since maintaining a resource of this type at-scale is only possible if it's open-contribution. That means we need your help, whether it's contributing, reviewing, or evangelizing!
+- 📄 Know about my experiences [I am a full-stack developer from Tunisia . My interests range from back-side, front-end, system management to mobile and web applications. As you can see, I am interested in all parts of application development.](I am a full-stack developer from Tunisia . My interests range from back-side, front-end, system management to mobile and web applications. As you can see, I am interested in all parts of application development.)
 
-### 📝 Content Team
+- ⚡ Fun fact **Luffy will be the king of Pirates haha**
 
-- [@lucwhite](https://github.com/lucwhite), Curriculum Developer
-- [@yangc95](https://github.com/yangc95), Content Contributor
-- [@KTom101](https://github.com/KTom101), Content Contributor
-- [@caupolicandiaz](https://github.com/caupolicandiaz), Content Contributor
-- [@sswiniarski](https://github.com/sswiniarski), Content Contributor
-- [@HishamT](https://github.com/HishamT), Content Contributor
+<h3 align="left">Connect with me: Hayderlabidi2001@gmail.com</h3>
+<p align="left">
+</p>
 
-We are currently building a team of community volunteers and educators to maintain Codecademy Docs. Let us know if you are interested.
-
-### 🏗 Engineering Team
-
-- [@aionate0812](https://github.com/aionate0812)
-- [@awgraves](https://github.com/awgraves)
-- [@bndiep](https://github.com/bndiep)
-- [@christian-dinh](https://github.com/christian-dinh)
-- [@codecademy-aditya](https://github.com/codecademy-aditya)
-- [@jrood](https://github.com/jrood)
-- [@njradford](https://github.com/njradford)
-
-## How do I contribute?
-
-There are many ways to contribute to Codecademy Docs:
-
-- Submit a Pull Request to edit an existing entry.
-- Submit a Pull Request to create a new entry.
-- Submit a typo/bug in [GitHub Issues](https://github.com/Codecademy/docs/issues).
-- Share your thoughts in this [Codecademy Docs feedback form](https://codecademyready.typeform.com/to/hzVIWDgz) to tell us how we can improve Docs!
-- Join the [#CodecademyDocs](https://twitter.com/search?q=%23CodecademyDocs&src=typed_query&f=live) discussion on Twitter.
-
-Whether you are a code newbie or a seasoned hacker, there's something for you!
-
-Please read through the [Contribution Guide](https://github.com/Codecademy/docs/blob/main/.github/CONTRIBUTING.md) ✨. There you'll find a write-up of our content standards and style guide, as well as templates for creating your entries.
-
-## Additional Notes
-
-Remember, if you ever have any questions at all, we're always here to help in the [Codecademy Forums](https://discuss.codecademy.com/c/community/community-docs/2205) and [Codecademy Discord](https://discord.com/invite/codecademy).
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
